@@ -1,2 +1,4 @@
 # PyFOD
-FOD attenuator control tool
+FOD 5418 attenuator USB control tool
+
+Basic commands are implemented.
